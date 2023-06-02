@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.mos.cms.futurecdn.net/dSBzdGUhNYWCd2crbPAQdJ-970-80.jpg.webp)
 <h1 align="center">Hi 👋, I'm Tayfun Babacan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
