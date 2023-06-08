@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tayfunbabacandev&show_icons=true&theme=dark&locale=en&layout=compact" alt="tayfunbabacandev" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tayfunbabacandev&show_icons=true&theme=dark&locale=en" alt="tayfunbabacandev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tayfunbabacandev&show_icons=true&theme=dark&locale=en" alt="tayfunbabacandev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunbabacandev&theme=dark" alt="tayfunbabacandev" /></p>
 
